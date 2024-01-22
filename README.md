@@ -7,7 +7,7 @@ Este repositório contém uma coleção de códigos e demonstrações práticas 
 # Recursos Destacados:
 
 Implementações de algoritmos clássicos como Regressão Logística, Máquinas de Vetores de Suporte (SVM) e K-Vizinhos Mais Próximos (K-NN) XGBoost e etc...
-Exemplos de uso de bibliotecas populares como Scikit-Learn e TensorFlow para implementações eficientes.
+Exemplos de uso de bibliotecas populares como Scikit-Learn para implementações eficientes.
 Demonstração de pré-processamento de dados, validação cruzada e ajuste de hiperparâmetros.
 Projetos práticos de classificação em conjuntos de dados reais para uma aplicação prática dos conceitos aprendidos.
 
@@ -15,7 +15,6 @@ Projetos práticos de classificação em conjuntos de dados reais para uma aplic
 
 Algoritmos_Básicos: Implementações iniciais para compreensão conceitual.
 Scikit_Learn_Examples: Exemplos práticos utilizando a biblioteca Scikit-Learn.
-TensorFlow_Implementations: Implementações avançadas utilizando TensorFlow.
 Projetos_Reais: Projetos de classificação em conjuntos de dados do mundo real.
 
 # Instruções de Uso:
