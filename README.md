@@ -14,7 +14,9 @@ Projetos práticos de classificação em conjuntos de dados reais para uma aplic
 # Estrutura do Repositório:
 
 Algoritmos_Básicos: Implementações iniciais para compreensão conceitual.
+
 Scikit_Learn_Examples: Exemplos práticos utilizando a biblioteca Scikit-Learn.
+
 Projetos_Reais: Projetos de classificação em conjuntos de dados do mundo real.
 
 # Instruções de Uso:
@@ -22,8 +24,5 @@ Projetos_Reais: Projetos de classificação em conjuntos de dados do mundo real.
 Cada diretório contém um conjunto específico de códigos e explicações.
 Siga as instruções no arquivo README de cada diretório para uma compreensão passo a passo.
 Contribuições e sugestões são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-# Licença:
-Este código é disponibilizado sob a licença [insira o tipo de licença aqui].
 
 Aproveite explorando o mundo da classificação supervisionada em Machine Learning!
