@@ -6,7 +6,7 @@ Este repositório contém uma coleção de códigos e demonstrações práticas 
 
 # Recursos Destacados:
 
-Implementações de algoritmos clássicos como Regressão Logística, Máquinas de Vetores de Suporte (SVM) e K-Vizinhos Mais Próximos (K-NN) e XGBoost.
+Implementações de dois algoritmos: Regressão Logística e XGBoost.
 Exemplos de uso de bibliotecas populares como Scikit-Learn para implementações eficientes.
 Demonstração de pré-processamento de dados, validação cruzada e ajuste de hiperparâmetros.
 Projetos práticos de classificação em conjuntos de dados reais para uma aplicação prática dos conceitos aprendidos.
